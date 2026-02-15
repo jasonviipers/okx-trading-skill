@@ -1,5 +1,5 @@
 ---
-name: okx-provider-broker
+name: okx-trading
 description: Implement and maintain the OKX broker/provider integration for this workspace using okx-api SDK best practices, including auth/signing, spot/margin/futures/options trading, market/account endpoints, rate limiting, websocket subscriptions, and OKX error handling. Use when adding or changing any code under src/providers/okx or when an LLM needs canonical SDK usage patterns derived from .trae/okx-api-llm.txt.
 ---
 
